@@ -1,0 +1,9 @@
+CustomerID,Product,Category,Amount,Date
+C001,Shampoo,Personal Care,120,2024-12-01
+C002,Toothpaste,Personal Care,80,2024-12-03
+C003,Notebook,Stationery,45,2024-12-04
+C001,Pen,Stationery,15,2024-12-06
+C004,Chips,Snacks,50,2024-12-08
+C002,Juice,Drinks,60,2024-12-09
+C003,Handwash,Personal Care,90,2024-12-10
+
